@@ -1,7 +1,7 @@
 # 0x11. Python - Network \# 1
 
 ## DESCRIPTION
-Solved tasks from Holberton School's Higher-Level Programming - Python curriculum
+Solved tasks from ALX Africa.'s Higher-Level Programming - Python curriculum
 
 ----
 
