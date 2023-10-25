@@ -7,7 +7,7 @@ variables, tracebacks, and arithmetic operators.
 
 ## Tests :heavy_check_mark:
 
-* [tests](./tests): Folder of test files. Provided by Holberton School.
+* [tests](./tests): Folder of test files. Provided by ALX Africa.
 
 ## Function Prototypes :floppy_disk:
 
@@ -143,3 +143,6 @@ Prototypes for functions written in this project:
   * [102-magic_calculation.py](./102-magic_calculation.py): Python function matching exactly a
   bytecode.
 
+## Authors :black_nib:
+
+- [Abeer Ragab](https://github.com/Abeer-M-Ali) | [Linkedin](https://www.linkedin.com/in/abeer-ragab-b25872260/) | [Twitter](https://twitter.com/abeerragab5211) | 
