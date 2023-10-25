@@ -127,4 +127,7 @@ Prototypes for functions written in this project:
   * [100-print_python_list_info.c](./100-print_python_list_info.c): C function that
   prints basic information about Python lists.
 
+## Author :octocat:
+
+- [Abeer Ragab](https://github.com/Abeer-M-Ali) | [Linkedin](https://www.linkedin.com/in/abeer-ragab-b25872260/) | [Twitter](https://twitter.com/abeerragab5211) | 
 
