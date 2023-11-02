@@ -1,5 +1,9 @@
 #!/usr/bin/python3
-"""Defines a locked class."""
+# Esteban De La Hoz <1542@holbertonschool.com>
+""" File name : 101-locked_class.py
+    Low memory cost: Defines a locked class
+    It is not allowed to import any module
+"""
 
 
 class LockedClass:

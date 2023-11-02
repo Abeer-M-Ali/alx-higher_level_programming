@@ -112,7 +112,7 @@ Answer with Yes or No.
 ## Advanced Tasks :light_rail:
 
 ### [30. #pythonic](./100-magic_string.py)
-* Write a function ```magic_string()``` that returns a string ```“Holberton”``` n times the number of the iteration (see code):
+* Write a function ```magic_string()``` that returns a string ```BestSchool``` n times the number of the iteration (see code):
 
 ### [31. Low memory cost](./101-locked_class.py)
 * Write a ```class LockedClass``` with no class or object attribute, that prevents the user from dynamically creating new instance attributes, except if the new instance attribute is called ```first_name```.
